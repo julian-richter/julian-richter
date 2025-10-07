@@ -41,10 +41,6 @@ I aim for clarity over cleverness. I favor small abstractions, good defaults, an
 * Cross‑platform integrations (web, mobile, native)
 ---
 
-> *“In the quiet between footsteps, a shadow moves unseen.”*
-
----
-
 ## ⚙️ Virtues in Badges
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)

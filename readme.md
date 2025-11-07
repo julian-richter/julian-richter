@@ -15,7 +15,7 @@ Software engineer spanning web, mobile, and game systems.
 ## 🛠 What I Do
 I build software that spans:
 * Web frontends (SvelteKit, Vue, Vite)
-* Backend & APIs (Go, Spring Boot)
+* Backend & APIs (Go, Laravel)
 * Native / mobile (Kotlin, Android, Swift, Xcode)
 * Game / real‑time (C++ in Unreal Engine 5)
 * Tooling, dev experience, performance optimizations
